@@ -165,6 +165,14 @@
     {
       "name": "bllj.png",
       "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/bllj.png"
+    },
+    {
+      "name": "WorkBuddy.png",
+      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/WorkBuddy.png"
+    },
+    {
+      "name": "QoderWork.png",
+      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/QoderWork.png"
     }
   ]
 }
